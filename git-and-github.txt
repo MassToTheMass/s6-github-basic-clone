@@ -1,3 +1,6 @@
 git is the most popular version control software
 git is a tool used by persons of any level of expierence
 git has been used in massive corperations to simplify program management
+github is an online system which can store your repositories
+many people outside of coders use github to store their projects
+people can help other people with projects that they have posted
