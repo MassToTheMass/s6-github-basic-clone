@@ -1,0 +1,3 @@
+git is the most popular version control software
+git is a tool used by persons of any level of expierence
+git has been used in massive corperations to simplify program management
